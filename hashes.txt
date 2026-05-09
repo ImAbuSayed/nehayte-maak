@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nehayte Maak
+
+This log tracks the cryptographic history and versioning for the song **Nehayte Maak** (nehayte-maak).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T14:04:22.589318 | `v1` | `9e6703db3c5f6d447a8d8a2213b0838cff747030f4b6728e783f575d5cb8a6f4` | `a88b057a73562340ed7f8be2a95fc7cde0dd474aaa15063357119d842938a182` | `2026-05-09_nehayte-maak-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
